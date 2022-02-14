@@ -1,4 +1,4 @@
-﻿{
+module.exports = {
   "database": [
     "https://cdn.discordapp.com/attachments/399416520297676801/844911893793472522/qm0b29l7gy651.gif",
     "https://cdn.discordapp.com/attachments/399416520297676801/844907250006360114/20210516_161050.gif",
@@ -2566,4 +2566,4 @@
     "https://cdn.discordapp.com/attachments/399416520297676801/459957371301527554/12069836.gif",
     "https://cdn.discordapp.com/attachments/399416520297676801/459957139113377792/8461809.gif"
   ]
-}
+};
